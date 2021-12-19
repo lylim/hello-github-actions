@@ -11,3 +11,7 @@ Triggering action: On push
 
 Issues encountered when trying to implement this action: Setting up of the Telegram Token and ID so that GitHub is able to interact with Telegram with the use of Telegram API. Issue was resolved after breifly studying the Telegram API
 
+
+
+References used:
+https://github.com/appleboy/telegram-action
