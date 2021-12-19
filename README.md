@@ -1,4 +1,4 @@
-## GitHub workflow each time someone pushes a change.
+## Telegram notification each time someone pushes a change.
 
 Triggering action: On push
 
