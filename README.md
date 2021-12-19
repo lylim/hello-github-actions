@@ -16,3 +16,5 @@ Setting up of bot with BotFather in Telegram
 
 Issues encountered: 
 Setting up of the Telegram Token and ID so that GitHub is able to interact with Telegram with the use of Telegram Bot API. Issue was resolved after breifly studying the Telegram API
+
+test
