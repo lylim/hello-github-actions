@@ -2,7 +2,7 @@
 
 Learning Journey
 
-Workflow Objective: To receive a Telegram notification on my phone when a push to repository occurs.
+Workflow Objective: To receive a Telegram notification on my phone when a push to this repository occurs.
 ![telegram action](https://user-images.githubusercontent.com/93564452/146679202-754edef1-cf2f-467a-95a5-0993894d91f0.png)
 
 
