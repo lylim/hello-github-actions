@@ -1,4 +1,4 @@
-## GitHub workflow each time someone commits a change.
+## GitHub workflow each time someone pushes a change.
 
 Learning Journey
 
